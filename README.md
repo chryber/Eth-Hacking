@@ -1,4 +1,4 @@
-                                                              <h1>My Ethical Hacking Road</h1>
+<h1>My Ethical Hacking Road</h1>
 
 <h2>I created this repo to document my ethical hacking journey and some of the tools I have gotten hands on with.</h2>
 
