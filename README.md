@@ -11,3 +11,6 @@
 
 - Getting hands on with Burpsuite, capturing traffic from navigating Reddit.
 ![Burpsuiterun](https://github.com/chryber/Eth-Hacking/assets/121698544/5e8c7be4-8f24-48b2-a6c8-f313560d890e)
+
+- Exploiting the vulnerable Kioptrix machine using a reverse shell exploit for Metasploit.
+![Firstexploit](https://github.com/chryber/Eth-Hacking/assets/121698544/76de025a-7f98-4a76-aa05-0c334bf7611e)
