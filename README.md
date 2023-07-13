@@ -14,3 +14,6 @@
 
 - Exploiting the vulnerable Kioptrix machine using a reverse shell exploit for Metasploit.
 ![Firstexploit](https://github.com/chryber/Eth-Hacking/assets/121698544/76de025a-7f98-4a76-aa05-0c334bf7611e)
+
+- Scanning with OWASP ZAP
+![OWASPzapscan](https://github.com/chryber/Eth-Hacking/assets/121698544/9c7d91f5-63e7-4e14-9c9c-1f1ee1d84b2e)
