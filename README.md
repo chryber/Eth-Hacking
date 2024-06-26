@@ -17,3 +17,6 @@
 
 - Scanning with OWASP ZAP
 ![OWASPzapscan](https://github.com/chryber/Eth-Hacking/assets/121698544/9c7d91f5-63e7-4e14-9c9c-1f1ee1d84b2e)
+
+- API Testing using Postman
+![Postman](https://github.com/chryber/Eth-Hacking/assets/121698544/cc2b0821-e764-4edd-87ab-ca55ec7185cc)
